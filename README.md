@@ -5,7 +5,7 @@
 
 ### <p> <em>Data Analyst</p> 
 
-⚡ Currently I am pursuing my specialization in Data Analytics and Visualization at Yeshiva University while working as a Teaching Assistant on campus. This role not only allows me to share important knowledge about Statistics and Analytics with others but also helps me enhance my own understanding of the subject.
+⚡ Graduated with Masters in Data Analytics and Visualization at Yeshiva University while working as a Teaching Assistant on campus. This role not only allows me to share important knowledge about Statistics and Analytics with others but also helps me enhance my own understanding of the subject.
 
 🌟 I have gained qualifications in cloud computing through Amazon Web Services and Analytics AI. These certifications have equipped me with cutting edge skills that're essential for navigating the ever evolving technological landscape. Additionally I am proficient in technical tools and languages including Python, Natural Language Processing (NLP), SQL, Datawarehousing, R-Studio and Machine Learning algorithms. These expertise enables me to perform data driven analyses efficiently.
 
@@ -13,7 +13,7 @@
 
 💼 I'm deeply invested in the transformative power of data, especially in testing and analytics, to bring about industry revolutions and achieve measurable success. I aim to leverage data's potential to forge innovative solutions and push forward the frontiers of data intelligence.
 
-⚡ Fun fact: I love to cook, Reading Novels and trekking. 
+⚡ Fun fact: I love to cook, reading Novels and trekking. 
 
 ## ⚡ Technologies
 ![AWS](https://img.shields.io/badge/-AWS-gray?style=flat-square&logo=amazon)
