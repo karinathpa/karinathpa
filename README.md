@@ -1,4 +1,4 @@
-## <h> Hi, I'm Karina Thapa! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+## <h> Hi, I'm Karina Thapa! /></h>
 [![Gmail](https://img.shields.io/badge/-karinathpa-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karinathpa@gmail.com)
 [![Linkedin](https://img.shields.io/badge/KarinaThapa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karina-thapa/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/karinathpa)](https://github.com/karinathpa)
